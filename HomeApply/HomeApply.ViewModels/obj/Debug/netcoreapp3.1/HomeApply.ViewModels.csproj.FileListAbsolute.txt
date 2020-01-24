@@ -1,0 +1,8 @@
+D:\Mriganga\HomeApply\HomeApply.ViewModels\bin\Debug\netcoreapp3.1\HomeApply.ViewModels.deps.json
+D:\Mriganga\HomeApply\HomeApply.ViewModels\bin\Debug\netcoreapp3.1\HomeApply.ViewModels.dll
+D:\Mriganga\HomeApply\HomeApply.ViewModels\bin\Debug\netcoreapp3.1\HomeApply.ViewModels.pdb
+D:\Mriganga\HomeApply\HomeApply.ViewModels\obj\Debug\netcoreapp3.1\HomeApply.ViewModels.csprojAssemblyReference.cache
+D:\Mriganga\HomeApply\HomeApply.ViewModels\obj\Debug\netcoreapp3.1\HomeApply.ViewModels.AssemblyInfoInputs.cache
+D:\Mriganga\HomeApply\HomeApply.ViewModels\obj\Debug\netcoreapp3.1\HomeApply.ViewModels.AssemblyInfo.cs
+D:\Mriganga\HomeApply\HomeApply.ViewModels\obj\Debug\netcoreapp3.1\HomeApply.ViewModels.dll
+D:\Mriganga\HomeApply\HomeApply.ViewModels\obj\Debug\netcoreapp3.1\HomeApply.ViewModels.pdb
